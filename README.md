@@ -2,4 +2,4 @@
 - 👀 I’m interested in data analysis about #travel and #tourism.
 - 🌱 I’m currently learning more about Machine Learning and Statistics.
 
-<i>Just having fun while becoming a Data Analyst!</i>
+<i>I'm practicing to become a Data Analyst!</i>
